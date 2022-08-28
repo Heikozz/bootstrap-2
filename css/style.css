@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-around;
+}
+
+.texto-centrado{
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-around;
+    align-items: flex-end;
+    
+}
+.fondonegro{
+    
+    background-color:black ;
+    height: 100px;
+    color: white;
+    
+}
